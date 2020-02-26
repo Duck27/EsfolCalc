@@ -505,7 +505,7 @@ namespace EfsolCalc
 3) Умножение 
 
 3.1)Умножение чисел длиной в одну цифру
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1r.png)
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/r1.png)
 
 3.2) Умножение чисел длиной в две цифры и одну
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/2r.png)
@@ -520,7 +520,11 @@ namespace EfsolCalc
 
 4) Деление 
 
-4.1)
+4.1) Деление чисел
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/uf1.png)
+
+4.2) Деление больших чисел
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/uf2.png)
 
 
 
