@@ -450,5 +450,6 @@ namespace EfsolCalc
 Скриншоты:
 1) Сложение
 1.1) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1е.png)
 
 
