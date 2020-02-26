@@ -482,23 +482,39 @@ namespace EfsolCalc
 
 2) Вычитание
 
-1.1) Вычитание чисел длиной в одну цифру
+2.1) Вычитание чисел длиной в одну цифру
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
 
-1.2) Вычитание чисел длиной в две цифры и одну
+2.2) Вычитание чисел длиной в две цифры и одну
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/2t.png)
 
-1.3) Вычитание чисел длиной в три цифры
+2.3) Вычитание чисел длиной в три цифры
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/3t.png)
 
-1.4) Вычитание дробных чисел
+2.4) Вычитание дробных чисел
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/4t.png)
 
-1.5) Вычитание дробных чисел (2)
+2.5) Вычитание дробных чисел (2)
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/5t.png)
 
-1.6) Вычитание с отрицательным числом
+2.6) Вычитание с отрицательным числом
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/6t.png)
+
+
+
+3) Умножение 
+
+2.1) Вычитание чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+
+2.1) Вычитание чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+
+2.1) Вычитание чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+
+2.1) Вычитание чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
 
 
 
