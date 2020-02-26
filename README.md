@@ -6,11 +6,17 @@
 using System;
 
 namespace EfsolCalc
+
 {
+
     class Program
+    
     {
+    
         static void Main(string[] args)
+        
         {
+        
             double firstNumb = InputDigit(1);
             string oper = OperationInput();
             double secondNumb = InputDigit(2);
