@@ -448,8 +448,58 @@ namespace EfsolCalc
 
 
 Скриншоты:
+0) Проверка ввода
+
+0.1) Пользователь некорректно ввел число
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/FFFFFFFF.png)
+
+0.2)Пользователь некорректно ввел оператор
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/EEEEEEE.png)
+
+
+
 1) Сложение
+
 1.1) Сложение чисел длиной в одну цифру
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1е.png)
+
+1.2) Сложение числа длиной в две цифры и в одну
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/2е.png)
+
+1.3) Сложение чисел длиной в две цифры 
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/3е.png)
+
+1.4) Сложение дробного числа с целым
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/4е.png)
+
+1.5) Сложение дробных чисел
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/5е.png)
+
+1.6) Сложение с отрицательным числом
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/6е.png)
+
+
+
+2) Вычитание
+
+1.1) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+
+1.2) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/2t.png)
+
+1.3) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/3t.png)
+
+1.4) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/4t.png)
+
+1.5) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/5t.png)
+
+1.6) Сложение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/6t.png)
+
+
 
 
