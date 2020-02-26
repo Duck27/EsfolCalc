@@ -473,10 +473,10 @@ namespace EfsolCalc
 ![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/4е.png)
 
 1.5) Сложение дробных чисел
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/5е.png)
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/5e.png)
 
 1.6) Сложение с отрицательным числом
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/6е.png)
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/6e.png)
 
 
 
