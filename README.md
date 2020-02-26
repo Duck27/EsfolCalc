@@ -504,17 +504,25 @@ namespace EfsolCalc
 
 3) Умножение 
 
-2.1) Вычитание чисел длиной в одну цифру
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+3.1)Умножение чисел длиной в одну цифру
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1r.png)
 
-2.1) Вычитание чисел длиной в одну цифру
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+3.2) Умножение чисел длиной в две цифры и одну
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/2r.png)
 
-2.1) Вычитание чисел длиной в одну цифру
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+3.3) Умножение чисел длиной в три цифры и две
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/3r.png)
 
-2.1) Вычитание чисел длиной в одну цифру
-![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/1t.png)
+3.4) Умножение дробных чисел
+![Plus1](https://github.com/Duck27/EsfolCalc/blob/master/4r.png)
+
+
+
+4) Деление 
+
+4.1)
+
+
 
 
 
